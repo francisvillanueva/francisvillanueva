@@ -10,10 +10,10 @@
 
 <p align = "center">
   <!-- Typing Thingy -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cutive&pause=1000&color=D27288&center=true&width=435&lines=Digital+Mason;Computer+Science+Student;Freelancer;Let's+All+Love+Lain" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cutive&pause=1000&color=39FF14&center=true&width=435&lines=Digital+Mason;Computer+Science+Student;Freelancer;Let's+All+Love+Lain" alt="Typing SVG" /></a>
 </p>
   
-I am a digital mason building the digital sphere brick by brick. I approach projects methodically, taking measured steps to improve lives through technology. A Computer Science student in the Philippines, transforming ideas from colorful imagination into reality. I design solutions that address real-world problems, solve problems down to the last line of code, and recognize that I build upon the foundations laid by the giants who came before me with innovations and breakthroughs.
+&nbsp;&nbsp;&nbsp;&nbsp; I am a digital mason building the digital sphere brick by brick. I approach projects methodically, taking measured steps to improve lives through technology. A Computer Science student in the Philippines, transforming ideas from colorful imagination into reality. I design solutions that address real-world problems, solve problems down to the last line of code, and recognize that I build upon the foundations laid by the giants who came before me with innovations and breakthroughs.
 
 <pre>
   Information about me:
@@ -31,7 +31,7 @@ I am a digital mason building the digital sphere brick by brick. I approach proj
   <img src="https://github.com/Gooseytwoshoes/Gooseytwoshoes/blob/main/images/tumblr_nlaal1qkFi1rkztdqo1_500.gif" alt="Computers" width = "45%"/>
 </p>
 
-<p align = "center">
+<div align = "center">
   <p>
     <!--
       this part is those fancy charts showing GitHub Activity
@@ -46,7 +46,7 @@ I am a digital mason building the digital sphere brick by brick. I approach proj
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=francisvillanueva&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=francisvillanueva&amp;layout=compact&amp;langs_count=8&amp;theme=algolia">
   </a>
-</p>
+</div>
 <p align="center">
   <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=francisvillanueva&amp;theme=radical&amp;row=1&amp;column=7&amp;margin-h=15&amp;margin-w=5&amp;no-bg=true" alt="TROPHY">
 </p>

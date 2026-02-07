@@ -47,9 +47,6 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=francisvillanueva&amp;layout=compact&amp;langs_count=8&amp;theme=algolia">
   </a>
 </div>
-<p align="center">
-  <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=francisvillanueva&amp;theme=radical&amp;row=1&amp;column=7&amp;margin-h=15&amp;margin-w=5&amp;no-bg=true" alt="TROPHY">
-</p>
 
 
 ## 💻 Socials 
@@ -88,8 +85,3 @@
       <img alt="github contribution grid snake animation" src="https://github.com/francisvillanueva/francisvillanueva/blob/main/images/github-user-contribution.svg">
     </picture>
 </div>
-
-<p align="center">Visitor count</p>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/francisvillanueva/count.svg">
-</p>

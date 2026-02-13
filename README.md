@@ -15,6 +15,16 @@
   
 &nbsp;&nbsp;&nbsp;&nbsp; I am a digital mason building the digital sphere brick by brick. I approach projects methodically, taking measured steps to improve lives through technology. A Computer Science student in the Philippines, transforming ideas from colorful imagination into reality. I design solutions that address real-world problems, solve problems down to the last line of code, and recognize that I build upon the foundations laid by the giants who came before me with innovations and breakthroughs.
 
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="https://komarev.com/ghpvc/?username=akshayrajeevnambiar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" height="30" />
+  <a href="https://www.linkedin.com/in/frncisv/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" height="30" />
+  </a>
+  <a href="mailto:fv.goose@gmail.com " target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" height="30" />
+  </a>
+</p>
+
 <pre>
   Information about me:
   

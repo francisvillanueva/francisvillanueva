@@ -1,5 +1,5 @@
 # ⌨🖱 Francis Villanueva
-`Digital Mason (Student/Creator/Gamer)`
+`Digital Mason (Developer/Creator/Gamer)`
 
 ## ✏ About me
 <p align = "center">

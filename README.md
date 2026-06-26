@@ -10,10 +10,10 @@
 
 <p align = "center">
   <!-- Typing Thingy -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cutive&pause=1000&color=39FF14&center=true&width=435&lines=Digital+Mason;Computer+Science+Student;Freelancer;Let's+All+Love+Lain" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cutive&pause=1000&color=39FF14&center=true&width=435&lines=Digital+Mason;Web and AI Developer;Freelancer;Let's+All+Love+Lain" alt="Typing SVG" /></a>
 </p>
   
-&nbsp;&nbsp;&nbsp;&nbsp; I am a digital mason building the digital sphere brick by brick. I approach projects methodically, taking measured steps to improve lives through technology. A Computer Science student in the Philippines, transforming ideas from colorful imagination into reality. I design solutions that address real-world problems, solve problems down to the last line of code, and recognize that I build upon the foundations laid by the giants who came before me with innovations and breakthroughs.
+&nbsp;&nbsp;&nbsp;&nbsp; I am a digital mason building the digital sphere brick by brick. I approach projects methodically, taking measured steps to improve lives through technology. A web and AI developer in the Philippines, transforming ideas from colorful imagination into reality. I design solutions that address real-world problems, solve problems down to the last line of code, and recognize that I build upon the foundations laid by the giants who came before me with innovations and breakthroughs.
 
 <p align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <img src="https://komarev.com/ghpvc/?username=akshayrajeevnambiar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" height="30" />
@@ -25,10 +25,10 @@
   Information about me:
   
     - 🖥️ Self-taught Programmer 
-    - 📚 Currently Studying Computer Science
+    - 📚 Graduated in Computer Science in 2026
     - 📝 Appreciates AI and other forms of tech
-    - ⛳ Current goal: Graduate
-    - 🤔 Currently open for: Mentorship
+    - ⛳ Current goal: study and master AI development
+    - 🤔 Currently open for: Mentorship, job offers, and connections in the IT industry
 </pre>
 
 ## 🛠 Github Analytics
@@ -80,7 +80,8 @@
   <img src = "https://github.com/Gooseytwoshoes/Gooseytwoshoes/blob/main/images/f1f7d7053d6423b5a29b8c8b7b338e3d.gif" width = "35%"/>
   </p>
   <pre>
-    - I'm just minding the gap.
+    - Learn and study AI development.
+    - Make an application that people would use.
   </pre>
 
 <div align="center">

@@ -10,7 +10,7 @@
 
 <p align = "center">
   <!-- Typing Thingy -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cutive&pause=1000&color=39FF14&center=true&width=435&lines=Digital+Mason;Web and AI Developer;Freelancer;Let's+All+Love+Lain" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cutive&pause=1000&color=39FF14&center=true&width=435&lines=Digital+Mason;Web+and+AI+Developer;Freelancer;Let's+All+Love+Lain" alt="Typing SVG" /></a>
 </p>
   
 &nbsp;&nbsp;&nbsp;&nbsp; I am a digital mason building the digital sphere brick by brick. I approach projects methodically, taking measured steps to improve lives through technology. A web and AI developer in the Philippines, transforming ideas from colorful imagination into reality. I design solutions that address real-world problems, solve problems down to the last line of code, and recognize that I build upon the foundations laid by the giants who came before me with innovations and breakthroughs.

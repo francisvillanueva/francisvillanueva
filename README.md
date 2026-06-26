@@ -1,10 +1,9 @@
 # ⌨🖱 Francis Villanueva
-`Digital Mason (Developer/Creator/Gamer)`
+`Digital Mason (Developer / Digital Creator / Gamer)`
 
-## ✏ About me
 <p align = "center">
   <a href = "https://fauux.neocities.org/" title = "ḽ̴̾e̴̙͋͋t̶̛͓̩͝'̶̞͖̉s̸͎͍̍̀ ̶̰̅̆a̵̜͋̉l̵̼͕̀͠l̴̙̮͒ ̴̲̾l̷̫̠͝ỏ̴̰̐v̴̥̪̐ȅ̵͙̟ ̸͓̉̌L̴̨̒å̸̜̞i̴̧̳͐n̴̫̔͗">
-    <img src="https://github.com/Gooseytwoshoes/Gooseytwoshoes/blob/main/images/lain.gif" alt="Lain" width = "20%"/>
+    <img src="https://github.com/Gooseytwoshoes/Gooseytwoshoes/blob/main/images/lain.gif" alt="Lain" width = "15%"/>
   </a>
 </p>
 
@@ -12,22 +11,33 @@
   <!-- Typing Thingy -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cutive&pause=1000&color=39FF14&center=true&width=435&lines=Digital+Mason;Web+and+AI+Developer;Freelancer;Let's+All+Love+Lain" alt="Typing SVG" /></a>
 </p>
-  
-&nbsp;&nbsp;&nbsp;&nbsp; I am a digital mason building the digital sphere brick by brick. I approach projects methodically, taking measured steps to improve lives through technology. A web and AI developer in the Philippines, transforming ideas from colorful imagination into reality. I design solutions that address real-world problems, solve problems down to the last line of code, and recognize that I build upon the foundations laid by the giants who came before me with innovations and breakthroughs.
+
+## ✏ About me
+<div>
+  <img
+    src="https://github.com/francisvillanueva/francisvillanueva/blob/main/images/e8y7ei2hyc8f1.gif"
+    align="left"
+    width="280">
+  <img src="https://placehold.co/30x1/transparent/transparent" align="left" width="30">
+
+  <p> &nbsp;&nbsp;&nbsp;&nbsp; I am a digital mason building the digital sphere brick by brick. I approach projects methodically, taking measured steps to improve lives through technology. A web and AI developer in the Philippines, transforming ideas from colorful imagination into reality. I design solutions that address real-world problems, solve problems down to the last line of code, and recognize that I build upon the foundations laid by the giants who came before me with innovations and breakthroughs. </p>
+
+<pre>
+  - 🖥️ Self-taught Programmer
+  - 📚 Graduated in Computer Science in 2026
+  - ⛳ Current goal: Study and master AI development
+  - 🤔 Open to mentorship, job offers, and connections
+  - ☕ Caffeine fiend
+</pre>
+
+<br clear="left">
+</div>
+
+
 
 <p align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <img src="https://komarev.com/ghpvc/?username=akshayrajeevnambiar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" height="80" />
 </p>
-
-<pre>
-  Information about me:
-  
-    - 🖥️ Self-taught Programmer 
-    - 📚 Graduated in Computer Science in 2026
-    - 📝 Appreciates AI and other forms of tech
-    - ⛳ Current goal: study and master AI development
-    - 🤔 Currently open for: Mentorship, job offers, and connections in the IT industry
-</pre>
 
 ## 🛠 Github Analytics
 
@@ -56,7 +66,7 @@
 ## 💻 Socials 
 
 <p align = "center">
-  <img src = "https://github.com/francisvillanueva/francisvillanueva/blob/main/images/lain-stare.gif" width = "45%"/>
+  <img src = "https://github.com/francisvillanueva/francisvillanueva/blob/main/images/ezgif-8e85ee8b53b385e1.gif" width = "45%"/>
 </p>
 
 <!--
